@@ -1,9 +1,8 @@
 {
-  "name": "dracula-ui",
+  "name": "@usermn/dracula-ui",
   "version": "1.0.6",
-  "description": "A dark-first collection of UI patterns and components.",
-  "homepage": "https://ui.draculatheme.com",
-  "repository": "dracula/dracula-ui",
+  "description": "A dark-first collection of UI patterns and components. Without Google Fonts.",
+  "repository": "mrhappyma/dracula-ui-no-fonts",
   "main": "index.js",
   "style": "./styles/dracula-ui.css",
   "typings": "index.d.ts",

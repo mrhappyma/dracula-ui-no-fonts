@@ -1,3 +1,6 @@
+**this package is identical to dracula-ui**, except that the font (previously pulled from Google Fonts) has been removed. That is all.
+
+
 # Dracula UI
 
 > A dark-first collection of UI patterns and components.
